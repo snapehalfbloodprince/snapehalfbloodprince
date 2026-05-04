@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Francesco, aka @snapehalfbloodprince
 - 👀 I’m interested in .NET Framework, but I love to try almost every programming language!
-- 🌱 I’m currently learning Angular development
-- 💞️ I’m looking to collaborate on some open source projects, especially .NET related ones
 - 📫 How to reach me: https://www.linkedin.com/in/francescopiga/
 
 <!---
